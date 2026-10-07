@@ -1,0 +1,1 @@
+# INF-672-PRACTICA2Regresi-n-Lineal-KateArce
